@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name :karthick v
-### Reg. No : 212223040086
+### Name : Akshaya R
+### Reg. No : 212223220005
 
 ## Algorithm or Steps Involved:
 <ol>
